@@ -1,0 +1,1 @@
+pnpm i && pnpm turbo build --force --filter="\!web"
